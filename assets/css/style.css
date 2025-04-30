@@ -496,7 +496,7 @@ img {
 }
 
 .scroll-top.open {
-  bottom: 50px;
+  bottom: 100px;
 }
 
 .scroll-top span{
@@ -2411,7 +2411,7 @@ div#mCSB_1_container{
 
 .map-section{
   position: relative;
-  padding: 144px 0px 295px 0px;
+  padding: 144px 0px 15px 0px;
 }
 
 .map-section .map-inner{
