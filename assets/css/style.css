@@ -569,7 +569,7 @@ img {
   top:0px;
   width:100%;
   z-index:0;
-  background: #061a3a;
+  background: #F5F5F5;
   transition:all 500ms ease;
   -moz-transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
@@ -614,7 +614,7 @@ img {
   top: 0px;
   right: 0px;
   width: 100%;
-  background: transparent;
+  background: #F5F5F5;
 }
 
 .main-header .outer-box {
@@ -808,7 +808,7 @@ img {
   font-family: 'Work Sans', sans-serif;
   font-weight:500;
   opacity:1;
-  color: #fff;
+  color: black;
   z-index:1;
   -webkit-transition:all 500ms ease;
   -moz-transition:all 500ms ease;
@@ -2372,7 +2372,7 @@ div#mCSB_1_container{
 .anim-icon{
   position: absolute;
   left: 0px;
-  top: 0px;
+  top: 89px;
   right: 0px;
   max-width: 1920px;
   width: 100%;
